@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Javascript.**
 
-- 📫 How to reach me **boghos42@gmail.com**
-
-- ⚡ Fun fact **I have been creating games with C# in Unity for 4 years**
+- ⚡ Fun fact, **I have been creating games with C# in Unity for 4 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
