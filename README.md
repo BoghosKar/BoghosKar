@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boghos</h1>
 <h3 align="center">17 y/o Syrian Armenian</h3>
 
-- 🌱 I’m currently learning **C++, C#, Javascript.**
-
-- ⚡ Fun fact, **I have been creating games with C# in Unity for 4 years**
+- 🌱 I’m currently learning **C++, React, Javascript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
