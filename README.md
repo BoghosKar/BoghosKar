@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Boghos</h1>
-<h3 align="center">17 y/o Syrian Armenian</h3>
 
 - 🌱 I’m currently learning **C++, React, Javascript.**
 
