@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://fb.com/boghos karadanaian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boghos karadanaian" height="30" width="40" /></a>
 <a href="https://instagram.com/b.x.k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@b.x.k1" height="30" width="40" /></a>
-<a href="https://discord.gg/lilsensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lilsensei" height="30" width="40" /></a>
+<a href="https://discord.gg/b.x.k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lilsensei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
