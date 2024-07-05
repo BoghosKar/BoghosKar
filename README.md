@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Boghos</h1>
 
 #### Programming Languages
-  ![Languages](https://skillicons.dev/icons?i=dart,js,cpp,c#,)
+  ![Languages](https://skillicons.dev/icons?i=dart,js,cpp,cs)
 
 #### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
